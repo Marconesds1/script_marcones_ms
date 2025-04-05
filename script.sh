@@ -1,0 +1,2 @@
+#!/bin/bash
+# [INSERIR O CÓDIGO COMPLETO DO CANVAS AQUI]
