@@ -40,3 +40,6 @@ Execute o comando abaixo como **root**:
 
 ```bash
 bash <(curl -sSL https://raw.githubusercontent.com/Marconesds1/script_marcones_ms/main/instalador.sh)
+
+Desenvolvido por Marcones
+📧 Contato: marconesfsb78@gmail.com
